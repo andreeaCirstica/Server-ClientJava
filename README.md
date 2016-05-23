@@ -1,3 +1,4 @@
 # Server-ClientJava
 
----just another repository
+---Messanger 
+---First start the server, then the serverGui, then the client and the clientGUI
